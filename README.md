@@ -1,3 +1,3 @@
 # learn-github
 
-hello wrold
+hello world
